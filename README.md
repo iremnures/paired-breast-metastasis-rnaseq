@@ -23,6 +23,14 @@ How do transcriptomic profiles differ between liver and lung metastases within t
 ## Interpretation limits
 Bulk tissue composition may contribute to the differences. Tumor-content metadata were available only for R49. Twelve genes retain unresolved apeglm optimization sensitivity; their shrunken estimates are not used for definitive effect-size prioritization. Patient-exclusion models are sensitivity analyses, not independent validations.
 
+## Hallmark sensitivity across patient exclusions
+
+![Hallmark sensitivity heatmap](results/figures/hallmark_leave_one_out_heatmap.png)
+
+Blue indicates Liver-direction enrichment; red indicates Lung direction.
+Dots mark FDR < 0.05 within each model. Patient-exclusion models
+assess sensitivity within this cohort, not independent validation.
+
 ## Documentation
 - [Results report](docs/results_report.md)
 - [Analysis plan](docs/analysis_plan.md)
