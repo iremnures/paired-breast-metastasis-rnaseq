@@ -1,0 +1,2 @@
+Normalization correction completed and numerically verified.
+Documentation updated; earlier uncorrected LOO outputs superseded.

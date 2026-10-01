@@ -1,0 +1,18 @@
+# Reproducible intermediate files
+/data/processed/
+
+# Local reproduction runs and backups
+/repro_checks/
+
+# Model objects; retain the frozen Hallmark source definitions
+*.rds
+!data/metadata/msigdb_hallmark_human.rds
+
+# Execution logs and Python caches
+*.log
+__pycache__/
+*.pyc
+
+# Editor temporary files
+*~
+*.swp

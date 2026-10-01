@@ -1,0 +1,20 @@
+"gene_name","group","matched_gene_ids"
+"PTPRC","Immune-associated",1
+"CD3D","Immune-associated",1
+"CD79A","Immune-associated",1
+"LST1","Immune-associated",1
+"COL1A1","Stroma / ECM-associated",1
+"COL1A2","Stroma / ECM-associated",1
+"DCN","Stroma / ECM-associated",1
+"LUM","Stroma / ECM-associated",1
+"PECAM1","Endothelial-associated",1
+"VWF","Endothelial-associated",1
+"CDH5","Endothelial-associated",1
+"EPCAM","Epithelial-associated",1
+"KRT8","Epithelial-associated",1
+"KRT18","Epithelial-associated",1
+"ALB","Liver-associated",1
+"APOA1","Liver-associated",1
+"SFTPB","Lung-associated",1
+"SFTPC","Lung-associated",1
+"SCGB1A1","Lung-associated",1

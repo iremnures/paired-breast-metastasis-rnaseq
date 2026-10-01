@@ -1,0 +1,7 @@
+"excluded_patient","specimens","genes_in_model","finite_Wald_stats","nonfinite_Wald_stats","genes_FDR_below_0.05","dispersion_fit"
+"R18",10,25667,25667,0,1364,"parametric"
+"R23",10,25667,25667,0,818,"parametric"
+"R33",10,25667,25667,0,1469,"parametric"
+"R36",10,25667,25667,0,1018,"parametric"
+"R49",10,25667,25667,0,1721,"parametric"
+"R8",10,25667,25667,0,1624,"parametric"

@@ -1,0 +1,13 @@
+"specimen_id","patient_code","tissue","clinical_tissue","clinical_histology","tumor_content_original","necrosis_original","tumor_content_missing","necrosis_missing"
+"R18LIV","R18","Liver","Liver/Bile Duct","Invasive ductal carcinoma","Unknown","Unknown",TRUE,TRUE
+"R18LUN","R18","Lung","Lung","Invasive ductal carcinoma","Unknown","Unknown",TRUE,TRUE
+"R23LIV","R23","Liver","Liver/Bile Duct","Invasive ductal carcinoma","Unknown","Unknown",TRUE,TRUE
+"R23LUN","R23","Lung","Lung","Invasive ductal carcinoma","Unknown","Unknown",TRUE,TRUE
+"R33LIV","R33","Liver","Liver/Bile Duct","Invasive ductal carcinoma","Unknown","Unknown",TRUE,TRUE
+"R33LUN","R33","Lung","Lung","Invasive ductal carcinoma","Unknown","Unknown",TRUE,TRUE
+"R36LIV","R36","Liver","Liver/Bile Duct","Invasive ductal carcinoma","Unknown","Unknown",TRUE,TRUE
+"R36LUN","R36","Lung","Lung","Invasive ductal carcinoma","Unknown","Unknown",TRUE,TRUE
+"R49LIV","R49","Liver","Liver/Bile Duct","Invasive ductal carcinoma","75%-99%","0",FALSE,FALSE
+"R49LUN","R49","Lung","Lung","Invasive ductal carcinoma","75%-99%","0",FALSE,FALSE
+"R8LIV","R8","Liver","Liver/Bile Duct","Invasive ductal carcinoma","Unknown","Unknown",TRUE,TRUE
+"R8LUN","R8","Lung","Lung","Invasive ductal carcinoma","Unknown","Unknown",TRUE,TRUE

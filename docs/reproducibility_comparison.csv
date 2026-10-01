@@ -1,0 +1,21 @@
+"check","passed"
+"Input: counts_by_biological_specimen.csv.gz",TRUE
+"Input: specimen_metadata.csv",TRUE
+"Input: primary_liver_lung_counts.csv.gz",TRUE
+"Input: primary_liver_lung_metadata.csv",TRUE
+"Input: primary_liver_lung_counts_filtered.csv.gz",TRUE
+"DESeq2 results: primary",TRUE
+"Model counts: primary",TRUE
+"DESeq2 results: no_R18",TRUE
+"Model counts: no_R18",TRUE
+"DESeq2 results: no_R23",TRUE
+"Model counts: no_R23",TRUE
+"DESeq2 results: no_R33",TRUE
+"Model counts: no_R33",TRUE
+"DESeq2 results: no_R36",TRUE
+"Model counts: no_R36",TRUE
+"DESeq2 results: no_R49",TRUE
+"Model counts: no_R49",TRUE
+"DESeq2 results: no_R8",TRUE
+"Model counts: no_R8",TRUE
+"Same optimizer-sensitive gene set",TRUE

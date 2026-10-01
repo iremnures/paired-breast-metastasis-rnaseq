@@ -1,0 +1,20 @@
+"gene_name","group","Lung_higher_pairs","Liver_higher_pairs","equal_pairs","median_paired_log_difference","minimum_raw_count","maximum_raw_count","zero_count_specimens"
+"PTPRC","Immune-associated",5,1,0,1.13630542544592,209,3260,0
+"CD3D","Immune-associated",5,1,0,1.44099075683907,4,172,0
+"CD79A","Immune-associated",6,0,0,1.22628525766054,6,283,0
+"LST1","Immune-associated",5,1,0,1.05131588659423,47,687,0
+"COL1A1","Stroma / ECM-associated",4,2,0,0.53305274477235,8528,483221,0
+"COL1A2","Stroma / ECM-associated",5,1,0,0.8597523962685,7449,203607,0
+"DCN","Stroma / ECM-associated",6,0,0,1.2165086642116,2498,77338,0
+"LUM","Stroma / ECM-associated",5,1,0,2.5133231613174,937,49416,0
+"PECAM1","Endothelial-associated",5,1,0,1.93404959112085,804,56261,0
+"VWF","Endothelial-associated",5,1,0,3.6520753401437,285,99500,0
+"CDH5","Endothelial-associated",5,1,0,1.2233202143201,360,11916,0
+"EPCAM","Epithelial-associated",1,5,0,-0.588054608388499,282,12134,0
+"KRT8","Epithelial-associated",1,5,0,-0.923848758757349,7465,92359,0
+"KRT18","Epithelial-associated",0,6,0,-0.87907895982195,4511,34875,0
+"ALB","Liver-associated",0,6,0,-7.77306252466843,16,375372,0
+"APOA1","Liver-associated",2,4,0,-4.53035370089443,1,143313,0
+"SFTPB","Lung-associated",6,0,0,10.2860885821294,8,229651,0
+"SFTPC","Lung-associated",6,0,0,8.22675338362961,0,11067,1
+"SCGB1A1","Lung-associated",5,1,0,9.67800834051224,0,9649,2
